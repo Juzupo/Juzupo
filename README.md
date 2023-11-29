@@ -1,4 +1,4 @@
-## Oiii eu sou a Juliana Zupo!✨✨
+# Oiii eu sou a Juliana Zupo!✨✨
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -9,7 +9,9 @@
   </a>
 </div>
 
+##
 
+#### Tecnologias que uso no meu dia a dia!!!✔
 <div style="display: inline_block"><br>
   <img align="center" alt="Ju-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ju-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
