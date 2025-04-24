@@ -1,32 +1,52 @@
-# Oiii eu sou a Juliana Zupo!✨✨
+# 👩‍💻 Juliana Zupo ✨✨
 
-<div>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=juzupo&show_icons=true&theme=radical" />
-  </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juzupo&layout=compact&langs_count=8&card_width=320&theme=radical" />
-  </a>
-</div>
+🎓 Técnica em Informática formada com o 12º ano em Portugal, atualmente focada em migrar para a área de **Análise de Dados**. Apaixonada por aprender, explorar dados e resolver problemas com lógica e criatividade. Busco minha primeira oportunidade profissional na área, com muita vontade de crescer e contribuir.
 
-##
+---
 
-#### Tecnologias que uso no meu dia a dia!!!✔
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ju-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ju-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Ju-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Ju-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ju-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ju-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Ju-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://instagram.com/jumaedaalice/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:jualves.nut@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/julianazupo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
-</div>
+## 🛠️ Habilidades Técnicas
+
+- 📊 **Power BI** – criação de dashboards, segmentações e relatórios visuais
+- 🧮 **SQL** – consultas, filtros, joins e extração de dados
+- 📈 **Excel Avançado** – fórmulas, PROCV, Tabela Dinâmica, dashboards
+- 🐍 **Python** – em aprendizado (foco em análise de dados)
+- 💻 HTML, CSS (básico)
+- 🔍 Pensamento analítico, resolução de problemas e aprendizado rápido
+
+---
+
+## 🚀 Projetos
+
+### 📊 [Dashboards com Power BI](https://github.com/Juzupo/Portifolio-Power-BI)
+Análise visual de vendas fictícias por região, produto e desempenho por vendedor.
+
+### 🎬 [Consultas SQL – Base de Filmes](https://github.com/Juzupo/sql-filmes)
+Consultas SQL realizadas sobre uma base de dados de filmes. Extração de insights como filmes mais populares, anos de lançamento e notas.
+
+### 🌐 [Portfólio Pessoal](https://github.com/Juzupo/portifolio)
+Portfólio criado com HTML e CSS apresentando projetos, habilidades e contato profissional.
+
+---
+
+## 📚 Formação e Cursos
+
+- 📊 **Power BI** – Alura (Jul/2023)
+- 📈 **Excel Avançado com Power Pivot e Power Query** – Cinel (Abr/2024)
+- 🧠 **Big Data & Analytics** – FIAP (Out/2022)
+- 🌐 **HTML e CSS para Projeto Web** – Alura (Jul/2023)
+- 💡 **Iniciante em Programação** – Alura (Jul/2023)
+- 🌐 **Programação de Bases de Dados para Ambiente Web** – Cinel
+- 🌐 **Redes** – Alura (Nov/2023)
+
+---
+
+## 💬 Contato
+
+- 📧 **Email**: juzupodigital@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/julianazupo)  
+- 🗂️ [GitHub](https://github.com/Juzupo)
+
+---
+
+🌟 *Aberta a oportunidades em trabalho remoto (Brasil ou Portugal), estágios e vagas para iniciantes na área de dados!*
+
